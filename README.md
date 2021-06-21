@@ -1,3 +1,3 @@
-# aRtFuL eNiGmA Channel
+# aRtFuL eNiGmA 
 
-This repository contains resources shared on artfulenigma.com and cdmcdermott.com
+This repository contains resources shared on `artfulenigma.com` and `cdmcdermott.com`
